@@ -1,0 +1,10 @@
+section#top {
+  min-height: 80px;
+}
+
+#logo .logo-img {
+  width: 200px;
+}
+.fa {
+  color: pink;
+}
